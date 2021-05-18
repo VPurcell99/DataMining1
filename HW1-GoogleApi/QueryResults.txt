@@ -1,0 +1,137 @@
+RESULT 1:
+{
+    "kind": "customsearch#result",
+    "title": "How To Make A Million Dollars Online In 2 Minutes - YouTube",
+    "htmlTitle": "<b>How To Make A Million Dollars</b> Online In 2 Minutes - YouTube",
+    "link": "https://www.youtube.com/watch?v=bcmL5KEBD8U",
+    "displayLink": "www.youtube.com",
+    "snippet": "Oct 23, 2015 ... Everyday people become millionaires. Anyone can do it. If you aspire to create \nfinancial freedom and design life, on your terms, there is no\u00a0...",
+    "htmlSnippet": "Oct 23, 2015 <b>...</b> Everyday people become millionaires. Anyone can <b>do</b> it. If you aspire to <b>create</b> <br>\nfinancial freedom and design life, on your terms, there is no&nbsp;...",
+    "formattedUrl": "https://www.youtube.com/watch?v=bcmL5KEBD8U",
+    "htmlFormattedUrl": "https://www.youtube.com/watch?v=bcmL5KEBD8U"
+}
+
+RESULT 2:
+{
+    "kind": "customsearch#result",
+    "title": "How to Make $2 Million in One Day | Inc.com",
+    "htmlTitle": "<b>How to Make</b> $2 <b>Million</b> in One <b>Day</b> | Inc.com",
+    "link": "https://www.inc.com/marla-tabaka/make-two-million-dollars-in-one-day.html",
+    "displayLink": "www.inc.com",
+    "snippet": "Aug 6, 2012 ... \"You need to create a profile worthy of investor dollars.\" Once you have your \nonline image set to impress, building a strong social network is\u00a0...",
+    "htmlSnippet": "Aug 6, 2012 <b>...</b> &quot;You need to <b>create</b> a profile worthy of investor <b>dollars</b>.&quot; Once you have your <br>\nonline image set to impress, building a strong social network is&nbsp;...",
+    "formattedUrl": "https://www.inc.com/marla.../make-two-million-dollars-in-one-day.html",
+    "htmlFormattedUrl": "https://www.inc.com/marla.../<b>make</b>-two-<b>million</b>-<b>dollars</b>-in-one-<b>day</b>.html"
+}
+
+RESULT 3:
+{
+    "kind": "customsearch#result",
+    "title": "How do I legally get 1 million dollars in one day?",
+    "htmlTitle": "How <b>do</b> I legally get 1 <b>million dollars</b> in one <b>day</b>?",
+    "link": "https://www.quora.com/How-do-I-legally-get-1-million-dollars-in-one-day",
+    "displayLink": "www.quora.com",
+    "snippet": "Originally Answered: How do I get one million dollars in one day legally? It would \nbe difficult to narrow down the number of ways to make $1mm in a day\u00a0...",
+    "htmlSnippet": "Originally Answered: How <b>do</b> I get one <b>million dollars</b> in one <b>day</b> legally? It would <br>\nbe difficult to narrow down the number of ways to <b>make</b> $1mm in a <b>day</b>&nbsp;...",
+    "formattedUrl": "https://www.quora.com/How-do-I-legally-get-1-million-dollars-in-one-day",
+    "htmlFormattedUrl": "https://www.quora.com/How-<b>do</b>-I-legally-get-1-<b>million</b>-<b>dollars</b>-in-one-<b>day</b>"
+}
+
+RESULT 4:
+{
+    "kind": "customsearch#result",
+    "title": "How To Make A Million Dollars Day Trading - A Teachable Moment",
+    "htmlTitle": "<b>How To Make A Million Dollars Day</b> Trading - A Teachable Moment",
+    "link": "https://tonyisola.com/2021/02/how-to-make-a-million-dollars-day-trading/",
+    "displayLink": "tonyisola.com",
+    "snippet": "How To Make A Million Dollars Day Trading. Posted February 24, 2021 by \nAnthony Isola. Start with two million. A 50% loss doesn't sound so bad. Many day\n\u00a0...",
+    "htmlSnippet": "<b>How To Make A Million Dollars Day</b> Trading. Posted February 24, 2021 by <br>\nAnthony Isola. Start with two million. A 50% loss doesn&#39;t sound so bad. Many day<br>\n&nbsp;...",
+    "cacheId": "EyzWrm8AOfoJ",
+    "formattedUrl": "https://tonyisola.com/2021/02/how-to-make-a-million-dollars-day-trading/",
+    "htmlFormattedUrl": "https://tonyisola.com/2021/02/<b>how-to-make-a-million</b>-<b>dollars</b>-<b>day</b>-trading/"
+}
+
+RESULT 5:
+{
+    "kind": "customsearch#result",
+    "title": "16 Realistic and Actionable Ways to Make One Million Dollars",
+    "htmlTitle": "16 Realistic and Actionable Ways to <b>Make</b> One <b>Million Dollars</b>",
+    "link": "https://www.listenmoneymatters.com/one-million-dollars/",
+    "displayLink": "www.listenmoneymatters.com",
+    "snippet": "Apr 24, 2021 ... This post reveals 16 realistic ways to make one million dollars. ... high-yield \nsavings account designed for the money you save every day.",
+    "htmlSnippet": "Apr 24, 2021 <b>...</b> This post reveals 16 realistic ways to <b>make</b> one <b>million dollars</b>. ... high-yield <br>\nsavings account designed for the money you save every <b>day</b>.",
+    "cacheId": "7597qjPjCkwJ",
+    "formattedUrl": "https://www.listenmoneymatters.com/one-million-dollars/",
+    "htmlFormattedUrl": "https://www.listenmoneymatters.com/one-<b>million</b>-<b>dollars</b>/"
+}
+
+RESULT 6:
+{
+    "kind": "customsearch#result",
+    "title": "Just Like Magic : Make A Million Dollars In A Day ... - Amazon.com",
+    "htmlTitle": "Just Like Magic : Make A Million Dollars In A Day ... - Amazon.com",
+    "link": "https://www.amazon.com/Just-Like-Magic-Million-Dollars-ebook/dp/B08R987HGD",
+    "displayLink": "www.amazon.com",
+    "snippet": "Amazon.com: Just Like Magic : Make A Million Dollars In A Day eBook: Rush, \nNathaniel R. , Cole, Robert : Kindle Store.",
+    "htmlSnippet": "Amazon.com: Just Like Magic : <b>Make A Million Dollars In A Day</b> eBook: Rush, <br>\nNathaniel R. , Cole, Robert : Kindle Store.",
+    "cacheId": "pm30CE_4VzwJ",
+    "formattedUrl": "https://www.amazon.com/Just-Like-Magic-Million-Dollars.../B08R987HGD",
+    "htmlFormattedUrl": "https://www.amazon.com/Just-Like-Magic-<b>Million</b>-<b>Dollars</b>.../B08R987HGD"
+}
+
+RESULT 7:
+{
+    "kind": "customsearch#result",
+    "title": "How to Make a Million Dollars in 6 Steps - (advice from actual ...",
+    "htmlTitle": "<b>How to Make a Million Dollars</b> in 6 Steps - (advice from actual ...",
+    "link": "https://www.iwillteachyoutoberich.com/blog/how-to-make-a-million-dollars/",
+    "displayLink": "www.iwillteachyoutoberich.com",
+    "snippet": "Oct 8, 2019 ... Real millionaires tell you how to make a million dollars using the most ... I enjoy \nbeing able to train Brazilian Jiu-Jitsu almost every day, never\u00a0...",
+    "htmlSnippet": "Oct 8, 2019 <b>...</b> Real millionaires tell you <b>how to make a million dollars</b> using the most ... I enjoy <br>\nbeing able to train Brazilian Jiu-Jitsu almost every <b>day</b>, never&nbsp;...",
+    "cacheId": "S2tR7fmQ3w8J",
+    "formattedUrl": "https://www.iwillteachyoutoberich.com/blog/how-to-make-a-million-dollars/",
+    "htmlFormattedUrl": "https://www.iwillteachyoutoberich.com/blog/<b>how-to-make-a-million</b>-<b>dollars</b>/"
+}
+
+RESULT 8:
+{
+    "kind": "customsearch#result",
+    "title": "How to Make 1 Million Dollars Online (Even If You're Broke)",
+    "htmlTitle": "<b>How to Make</b> 1 <b>Million Dollars</b> Online (Even If You&#39;re Broke)",
+    "link": "https://lewishowes.com/podcast/how-to-make-1-million-online/",
+    "displayLink": "lewishowes.com",
+    "snippet": "No one is going to hand you a million dollars. You have to hustle and be \nconsistent. It took me a few years of constantly working 14 hours every day until \nmy\u00a0...",
+    "htmlSnippet": "No one is going to hand you a <b>million dollars</b>. You have to hustle and be <br>\nconsistent. It took me a few years of constantly working 14 hours every <b>day</b> until <br>\nmy&nbsp;...",
+    "cacheId": "xOstbEc4PgoJ",
+    "formattedUrl": "https://lewishowes.com/podcast/how-to-make-1-million-online/",
+    "htmlFormattedUrl": "https://lewishowes.com/podcast/<b>how-to-make</b>-1-<b>million</b>-online/"
+}
+
+RESULT 9:
+{
+    "kind": "customsearch#result",
+    "title": "Just Like Magic: Make A Million Dollars In A Day (Paperback) | Once ...",
+    "htmlTitle": "Just Like Magic: <b>Make A Million Dollars In A Day</b> (Paperback) | Once ...",
+    "link": "https://onceuponacrimebooks.indielite.org/book/9798586323415",
+    "displayLink": "onceuponacrimebooks.indielite.org",
+    "snippet": "Jan 8, 2021 ... If you ever wondered whether it's possible to make a million dollars in a day, look \nno further. Not only is it possible, it's incredibly too easy, and\u00a0...",
+    "htmlSnippet": "Jan 8, 2021 <b>...</b> If you ever wondered whether it&#39;s possible to <b>make a million dollars in a day</b>, look <br>\nno further. Not only is it possible, it&#39;s incredibly too easy, and&nbsp;...",
+    "cacheId": "XSlhKYJL31cJ",
+    "formattedUrl": "https://onceuponacrimebooks.indielite.org/book/9798586323415",
+    "htmlFormattedUrl": "https://onceuponacrimebooks.indielite.org/book/9798586323415"
+}
+
+RESULT 10:
+{
+    "kind": "customsearch#result",
+    "title": "How to turn $100 into $1 million, according to self-made millionaires",
+    "htmlTitle": "How to turn $100 into $1 <b>million</b>, according to self-made millionaires",
+    "link": "https://www.cnbc.com/2019/08/30/how-to-turn-100-into-1-million-according-to-self-made-millionaires.html",
+    "displayLink": "www.cnbc.com",
+    "snippet": "Aug 30, 2019 ... And by the time I was in my 30s, I had hundreds of thousands of dollars. Then I \ninvested those hundreds of thousands \u2014 and they made millions.",
+    "htmlSnippet": "Aug 30, 2019 <b>...</b> And by the time I was in my 30s, I had hundreds of thousands of <b>dollars</b>. Then I <br>\ninvested those hundreds of thousands \u2014 and they made millions.",
+    "cacheId": "9K0Mm-UYVvAJ",
+    "formattedUrl": "https://www.cnbc.com/.../how-to-turn-100-into-1-million-according-to-self- made-millionaires.html",
+    "htmlFormattedUrl": "https://www.cnbc.com/.../how-to-turn-100-into-1-<b>million</b>-according-to-self- made-<b>million</b>aires.html"
+}
+
