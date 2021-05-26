@@ -5,6 +5,8 @@ from IPython.core.display import HTML
 from IPython.display import display
 import config
 
+# Code below is Professor Breitzman's code modified to use my personal api key.
+
 consumer_key = config.apiKey
 consumer_secret = config.apiSecretKey
 access_token = config.accessToken
@@ -23,4 +25,4 @@ def get_tweets_from_search_term(api, query, number_of_tweets=100):
     for count, tweet in enumerate(tweepy.Cursor(api.search, q=query, lang='en', tweet_mode='extended').items(number_of_tweets), 1):
         display(HTML('{}. ({} by {}) {}'.format(count, tweet.created_at, tweet.author.screen_name, tweet.full_text)))
 
-get_tweets_from_twitterhandle(api, 'Eagles', 10)
+get_tweets_from_twitterhandle(api, 'Eagles', )
