@@ -1,0 +1,14 @@
+Vincent Purcell
+Data Mining 1 - HW3 Challenge Question
+
+For the challenge question I decided to do some googling and look into scoring methods for clustering to determine performance.
+There are many different measures to determine the clustering performance but one stuck out to me, the Calinski-Harabasz Index.
+
+This index is also known as the Variance Ratio Criterion and can be described as the sum of between-clusters dispersion and
+of inter-cluster dispersion. This concept can be computed in a single equation.
+
+I feel as though this index would be extremely important in determining if clustering a particular dataset if valuable information.
+A high score represents that the clusters are dense and well separated, which in turn validates that clustering is valuable.
+
+Another advantage is that this is a fast computation and is would only require a complexity on O(N) since you'd only have to
+loop through the dataset once. Calinski-Harabasz Index calculation would be a valuable tool to have in any clustering library.
